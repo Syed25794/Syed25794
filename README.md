@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sayyad Gul Mohammad.
-- 🌱 I’m currently learning Full Stack Web Developer.
+- 🌱 I’m currently learning Full Stack Web Development.
 - 💞️ I’m looking to work in a team with great projects.
 - 📫 You can reach out to me on my email syedgulmohammad25794@gmail.com
