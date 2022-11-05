@@ -65,11 +65,11 @@
 
 </br>
 
-<div align="center">
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syed25794&show_icons=true&locale=en&layout=compact" alt="syed25794" /></p>
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=syed25794&show_icons=true&locale=en" alt="syed25794" /></p>
-</div>
+   <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=syed25794&show_icons=true&locale=en&layout=compact" alt="syed25794" /></p>
+
+  <p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=syed25794&show_icons=true&locale=en" alt="syed25794" /></p>
+
 
 </br>
 
@@ -80,7 +80,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=syed25794&" alt="syed25794" /></p>
 
 
-   ![visitors](https://visitor-badge.glitch.me/badge?page_id=Syed25794.Syed25794)
+  <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=Syed25794.Syed25794" alt="syed25794" /></p>
 
-   ![Profile views](https://gpvc.arturio.dev/Syed25794)  
+  <p align="center"><img src="https://gpvc.arturio.dev/Syed25794" alt="syed25794" /> </p>
 
