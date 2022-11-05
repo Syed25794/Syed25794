@@ -63,12 +63,15 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Syed25794) 
 
+</br>
+
 <div align="center">
    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syed25794&show_icons=true&locale=en&layout=compact" alt="syed25794" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syed25794&show_icons=true&locale=en" alt="syed25794" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=syed25794&show_icons=true&locale=en" alt="syed25794" /></p>
 </div>
 
+</br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syed25794" alt="syed25794" /></a> </p>
  
