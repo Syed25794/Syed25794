@@ -1,39 +1,67 @@
-
+<div align="center">
+<img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner9.gif" alt="cover" />
+</div>
 <h1 align="center">Hi 👋, I'm Sayyad Gul Mohammad</h1>
 <h3 align="center">full stack web developer</h3>
+
+- Thank You for taking the time to view my GitHub Profile :blush:. I'm full stack developer who can convert wireframes into functional web apps by writing neat and clean code.
 
 - 🌱 I’m currently learning **Node.js, MongoDB, Express, Mongoose etc.**
 
 - 👨‍💻 All of my projects are available at [https://syed25794.github.io/](https://syed25794.github.io/)
 
-- 💬 Ask me about **Data Structure and Algorithm, Front-end and Back-end development**
+- 💬 Talk with me about **Data Structure and Algorithm, Front-end and Back-end development**
 
-- 📫 How to reach me **syedgulmohammad25794@gmail.com**
+- 📫 You can reach out me at **syedgulmohammad25794@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fa8CTWOXEmGO-y5mtrBLlIEezJKu243d/view?usp=share_link](https://drive.google.com/file/d/1fa8CTWOXEmGO-y5mtrBLlIEezJKu243d/view?usp=share_link)
+- 📄 Do you want to know more about me? Click here.. [https://drive.google.com/file/d/1fa8CTWOXEmGO-y5mtrBLlIEezJKu243d/view?usp=share_link](https://drive.google.com/file/d/1fa8CTWOXEmGO-y5mtrBLlIEezJKu243d/view?usp=share_link)
 
-<h3 align="left">Connect with me:</h3>
+
+
+
+<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+<a href= https://github.com/Syed25794?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/Syed25794?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/Syed25794?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/Syed25794?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/Syed25794?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
+<a href= https://github.com/Syed25794?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
+<a href= https://github.com/Syed25794?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
+<a href= https://github.com/Syed25794?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
+<a href= https://github.com/Syed25794?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
+<a href= https://github.com/Syed25794?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/Syed25794?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
+
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
+
 <p align="left">
 <a href="https://twitter.com/sayyadgulmohd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayyadgulmohd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sayyad gul mohammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayyad gul mohammad" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sayyad_fw15_488" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sayyad_fw15_488" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed25794)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Syed25794&show_icons=true&count_private=true)  
+
+
+<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2> 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Syed25794)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Syed25794)  
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syed25794" alt="syed25794" /></a> </p>
 
 
-![Profile views](https://gpvc.arturio.dev/Syed25794)  
+![Profile views](https://gpvc.arturio.dev/Syed25794)   
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syed25794&show_icons=true&locale=en&layout=compact" alt="syed25794" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syed25794&show_icons=true&locale=en" alt="syed25794" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syed25794&" alt="syed25794" /></p>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Syed25794.Syed25794)
