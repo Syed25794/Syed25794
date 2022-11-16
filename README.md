@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "400px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner9.gif" alt="cover" />
+<img width="100%" height = "400px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300" alt="cover" />
 </div>
 
 </br>
