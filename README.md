@@ -82,7 +82,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/sayyad-gul-mohammad/" target="blank"><img align="center" src="https://www.iconpacks.net/icons/1/free-linkedin-icon-112-thumb.png" alt="sayyad gul mohammad" height="30" width="40" /></a>
 <a href="https://twitter.com/sayyadgulmohd" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tFaM-eTMK02qh0x0VsBa-eFzurARq7qB1-aXOKSQ8w&s" alt="sayyadgulmohd" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sayyad_fw15_488" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.pngconnec" alt="sayyad_fw15_488" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sayyad_fw15_488" target="blank"><img align="center" src="https://icons8.com/icon/giWSfyxmIIiG/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-green-tal-revivo" alt="sayyad_fw15_488" height="30" width="40" /></a>
 </p>
 
 
