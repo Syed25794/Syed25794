@@ -27,7 +27,7 @@
 </br>
 
 
-<h2> Skills <img src = "https://upload.wikimedia.org/wikipedia/commons/5/55/Tool_animated.gif?20090204212530" width = 32px height=32px> </h2>
+<h2> Skills <img src = "https://upload.wikimedia.org/wikipedia/commons/5/55/Tool_animated.gif?20090204212530" width = '32px' height='32px' > </h2>
 <a href= 'https://github.com/Syed25794?tab=repositories&q=&type=&language=html&sort=' > <img width ='62px' height='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= 'https://github.com/Syed25794?tab=repositories&q=&type=&language=css&sort=' > <img width ='62px' height='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= 'https://github.com/Syed25794?tab=repositories&q=&type=&language=javascript&sort=' > <img width ='62px' height='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
@@ -80,9 +80,9 @@
 <h2> Connect with me <img src='https://cdn.dribbble.com/users/805609/screenshots/2909157/connection.gif' width="50px" height=30px> </h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sayyad-gul-mohammad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayyad gul mohammad" height="30" width="40" /></a>
-<a href="https://twitter.com/sayyadgulmohd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayyadgulmohd" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sayyad_fw15_488" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sayyad_fw15_488" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sayyad-gul-mohammad/" target="blank"><img align="center" src="https://www.iconpacks.net/icons/1/free-linkedin-icon-112-thumb.png" alt="sayyad gul mohammad" height="30" width="40" /></a>
+<a href="https://twitter.com/sayyadgulmohd" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tFaM-eTMK02qh0x0VsBa-eFzurARq7qB1-aXOKSQ8w&s" alt="sayyadgulmohd" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sayyad_fw15_488" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.pngconnec" alt="sayyad_fw15_488" height="30" width="40" /></a>
 </p>
 
 
