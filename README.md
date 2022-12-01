@@ -80,9 +80,9 @@
 <h2> Connect with me <img src='https://cdn.dribbble.com/users/805609/screenshots/2909157/connection.gif' width="50px" height=30px> </h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sayyad-gul-mohammad/" target="blank"><img align="center" src="https://www.iconpacks.net/icons/1/free-linkedin-icon-112-thumb.png" alt="sayyad gul mohammad" height="30" width="40" /></a>
-<a href="https://twitter.com/sayyadgulmohd" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tFaM-eTMK02qh0x0VsBa-eFzurARq7qB1-aXOKSQ8w&s" alt="sayyadgulmohd" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sayyad_fw15_488" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="sayyad_fw15_488" height="30" width="40" /></a>
+<a margin-left="20px" href="https://www.linkedin.com/in/sayyad-gul-mohammad/" target="blank"><img align="center" src="https://img.icons8.com/color/512/linkedin.png" alt="sayyad gul mohammad" height="30" width="40"  /></a>
+<a margin-left="20px" href="https://twitter.com/sayyadgulmohd" target="blank"><img align="center" src="https://img.icons8.com/color/512/twitter--v4.png" alt="sayyadgulmohd" height="30" width="40" /></a>
+<a margin-left="20px" href="https://www.hackerrank.com/sayyad_fw15_488" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="sayyad_fw15_488" height="30" width="40" /></a>
 </p>
 
 
