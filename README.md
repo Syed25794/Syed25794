@@ -28,17 +28,17 @@
 
 
 <h2> Skills <img src = "https://upload.wikimedia.org/wikipedia/commons/5/55/Tool_animated.gif?20090204212530" width = 32px height=32px> </h2>
-<a href= https://github.com/Syed25794?tab=repositories&q=&type=&language=html&sort= > <img width ='62px' height='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/Syed25794?tab=repositories&q=&type=&language=css&sort= > <img width ='62px' height='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Syed25794?tab=repositories&q=&type=&language=javascript&sort= > <img width ='62px' height='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Syed25794?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='62px' height='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/Syed25794?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='62px' height='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/Syed25794?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='62px' height='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
-<a href= https://github.com/Syed25794?tab=repositories&q=&type=&language=express&sort= > <img width ='62px' height='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
-<a href= https://github.com/Syed25794?tab=repositories&q=&type=&language=git&sort= > <img width ='62px' height='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
-<a href= https://github.com/Syed25794?tab=repositories&q=&type=&language=github&sort= > <img width ='62px' height='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
-<a href= https://github.com/Syed25794?tab=repositories&q=&type=&language=python&sort= > <img width ='62px' height='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/Syed25794?tab=repositories&q=&type=&language=java&sort= > <img width ='62px' height='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
+<a href= 'https://github.com/Syed25794?tab=repositories&q=&type=&language=html&sort=' > <img width ='62px' height='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= 'https://github.com/Syed25794?tab=repositories&q=&type=&language=css&sort=' > <img width ='62px' height='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= 'https://github.com/Syed25794?tab=repositories&q=&type=&language=javascript&sort=' > <img width ='62px' height='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= 'https://github.com/Syed25794?tab=repositories&q=&type=&language=reactjs&sort=' > <img width ='62px' height='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= 'https://github.com/Syed25794?tab=repositories&q=&type=&language=nodejs&sort=' > <img width ='62px' height='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
+<a href= 'https://github.com/Syed25794?tab=repositories&q=&type=&language=mongodb&sort=' > <img width ='62px' height='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
+<a href= 'https://github.com/Syed25794?tab=repositories&q=&type=&language=express&sort=' > <img width ='62px' height='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
+<a href= 'https://github.com/Syed25794?tab=repositories&q=&type=&language=git&sort=' > <img width ='62px' height='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
+<a href= 'https://github.com/Syed25794?tab=repositories&q=&type=&language=github&sort=' > <img width ='62px' height='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
+<a href= 'https://github.com/Syed25794?tab=repositories&q=&type=&language=python&sort=' > <img width ='62px' height='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= 'https://github.com/Syed25794?tab=repositories&q=&type=&language=java&sort=' > <img width ='62px' height='62px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width ='62px' height='62px' /> </a>
 
 
