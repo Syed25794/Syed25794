@@ -48,8 +48,6 @@
 
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2> 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Syed25794) 
-
 </br>
 
 
