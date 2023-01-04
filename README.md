@@ -37,6 +37,7 @@
 <a href= 'https://github.com/Syed25794?tab=repositories&q=&type=&language=express&sort=' > <img width ='62px' height='62px' src ='https://img.icons8.com/nolan/512/express-js.png'> </a>
 <a href= 'https://github.com/Syed25794?tab=repositories&q=&type=&language=git&sort=' > <img width ='62px' height='62px' src ='https://img.icons8.com/color/512/git.png'> </a>
 <a href= 'https://github.com/Syed25794?tab=repositories&q=&type=&language=github&sort=' > <img width ='62px' height='62px' src ='https://img.icons8.com/color/512/github.png'> </a>
+<a href= 'https://github.com/Syed25794?tab=repositories&q=&type=&language=java&sort=' > <img width ='62px' height='62px' src ='https://img.icons8.com/color/512/java.png'> </a>
 <a href= 'https://github.com/Syed25794?tab=repositories&q=&type=&language=python&sort=' > <img width ='62px' height='62px' src ='https://img.icons8.com/color/512/python.png'> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width ='62px' height='62px' /> </a>
 
