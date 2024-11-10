@@ -10,9 +10,9 @@
 
  </br>
  
-- Thank You for taking the time to view my GitHub Profile :blush:. I'm full stack developer who can convert wireframes into functional web apps by writing neat and clean code.
+- Thank You for taking the time to view my GitHub Profile :blush:. I'm full stack developer working for Quadrafort.
 
-- 🌱 I’m currently learning **Node.js, MongoDB, Express, Mongoose etc.**
+- 🌱 I’m currently learning **AI, Python, and Typescript.**
 
 - 👨‍💻 All of my projects are available at [https://syed25794.github.io/](https://syed25794.github.io/)
 
@@ -37,8 +37,8 @@
 <a href= 'https://github.com/Syed25794?tab=repositories&q=&type=&language=express&sort=' > <img width ='62px' height='62px' src ='https://img.icons8.com/nolan/512/express-js.png'> </a>
 <a href= 'https://github.com/Syed25794?tab=repositories&q=&type=&language=git&sort=' > <img width ='62px' height='62px' src ='https://img.icons8.com/color/512/git.png'> </a>
 <a href= 'https://github.com/Syed25794?tab=repositories&q=&type=&language=github&sort=' > <img width ='62px' height='62px' src ='https://img.icons8.com/color/512/github.png'> </a>
-<a href= 'https://github.com/Syed25794?tab=repositories&q=&type=&language=java&sort=' > <img width ='62px' height='62px' src ='https://img.icons8.com/color/512/java.png'> </a>
 <a href= 'https://github.com/Syed25794?tab=repositories&q=&type=&language=python&sort=' > <img width ='62px' height='62px' src ='https://img.icons8.com/color/512/python.png'> </a>
+<a href= 'https://github.com/Syed25794?tab=repositories&q=&type=&language=python&sort=' > <img width ='62px' height='62px' src ='https://img.icons8.com/color/512/redis.png'> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width ='62px' height='62px' /> </a>
 
 
