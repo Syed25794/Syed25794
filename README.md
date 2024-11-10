@@ -10,7 +10,7 @@
 
  </br>
  
-- Thank You for taking the time to view my GitHub Profile :blush:. I'm full stack developer working for Quadrafort.
+- Thank You for taking the time to view my GitHub Profile :blush:. I'm full stack developer working at Quadrafort Technologies.
 
 - 🌱 I’m currently learning **AI, Python, and Typescript.**
 
