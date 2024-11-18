@@ -14,11 +14,9 @@
 
 - 🌱 I’m currently learning **AI, Python, and Typescript.**
 
-- 👨‍💻 All of my projects are available at [https://syed25794.github.io/](https://syed25794.github.io/)
-
 - 💬 Talk with me about **Data Structure and Algorithm, Front-end and Back-end development**
 
-- 📫 You can reach out me at **syedgulmohammad25794@gmail.com**
+- 📫 You can reach out to me at **syedgulmohammad25794@gmail.com**
 
 - 📄 Do you want to know more about me? Click here.. [https://drive.google.com/file/d/1fa8CTWOXEmGO-y5mtrBLlIEezJKu243d/view?usp=share_link](https://drive.google.com/file/d/1fa8CTWOXEmGO-y5mtrBLlIEezJKu243d/view?usp=share_link)
 
