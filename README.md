@@ -10,7 +10,7 @@
 
  </br>
  
-- Thank You for taking the time to view my GitHub Profile :blush:. I'm full stack developer working at Quadrafort Technologies.
+- Thank You for taking the time to view my GitHub Profile :blush:. I'm a full-stack developer working at Quadrafort Technologies.
 
 - 🌱 I’m currently learning **AI, Python, and Typescript.**
 
@@ -18,7 +18,7 @@
 
 - 📫 You can reach out to me at **syedgulmohammad25794@gmail.com**
 
-- 📄 Do you want to know more about me? Click here... https://drive.google.com/file/d/1KRF-SsFVbdR1vRCoFec3_odivSie-q30/view?usp=sharing
+- 📄 Do you want to know more about me? Click here... <a href='https://drive.google.com/file/d/1KRF-SsFVbdR1vRCoFec3_odivSie-q30/view?usp=sharing' target="_blank">https://drive.google.com/file/d/1KRF-SsFVbdR1vRCoFec3_odivSie-q30/view?usp=sharing</a>
 
 
 </br>
