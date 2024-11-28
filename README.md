@@ -18,7 +18,7 @@
 
 - 📫 You can reach out to me at **syedgulmohammad25794@gmail.com**
 
-- 📄 Do you want to know more about me? Click here.. [https://drive.google.com/file/d/1fa8CTWOXEmGO-y5mtrBLlIEezJKu243d/view?usp=share_link](https://drive.google.com/file/d/1fa8CTWOXEmGO-y5mtrBLlIEezJKu243d/view?usp=share_link)
+- 📄 Do you want to know more about me? Click here... https://drive.google.com/file/d/1KRF-SsFVbdR1vRCoFec3_odivSie-q30/view?usp=sharing
 
 
 </br>
